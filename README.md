@@ -1,4 +1,4 @@
-# Sensery
+# Sensery — Music project
 This is our test website
 More information will appear here in the future
 # Our social links:
